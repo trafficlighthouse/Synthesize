@@ -1,7 +1,7 @@
 {
   "name": "synthesize",
   "version": "1.0.0",
-  "description": "Synthesize voice",
+  "description": "Synthesize text",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
