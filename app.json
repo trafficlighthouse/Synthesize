@@ -1,7 +1,7 @@
 {
   "name": "Synthesize",
   "descriprion": "Synthesize text",
-  "repository": "https://github.com/trafficlighthouse/userlocation.git",
+  "repository": "https://github.com/trafficlighthouse/Synthesize.git",
   "logo": "https://res.cloudinary.com/dfodbcppd/image/upload/w_1600,h_1000,c_limit,q_85/igloo_images/aym0b3mnhcdp5d4ktywc.png",
   "keywords": ["node", "express", "static"],
   "image": "herohu/nodejs"
