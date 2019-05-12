@@ -16,7 +16,7 @@
     "url": "https://github.com/trafficlighthouse/Synthesize.git"
 },
   "author": "Iexus Marketing",
-  "license": "MIT"
+  "license": "MIT",
   "keywords": [
     "node",
     "heroku",
