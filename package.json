@@ -1,18 +1,25 @@
 {
-  "name": "google_voice",
+  "name": "synthesize",
   "version": "1.0.0",
-  "description": "",
+  "description": "Synthesize voice",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+},
   "dependencies": {
     "express": "^4.16.4",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "unirest": "^0.6.0"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+    "repository": {
+    "url": "https://github.com/trafficlighthouse/Synthesize.git"
+},
+  "author": "Iexus Marketing",
   "license": "MIT"
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ]
 }
